@@ -45,6 +45,38 @@ Garantizar la integridad, seguridad y disponibilidad de los datos.
 
 #### 2. Una plataforma web es el entorno de desarrollo de software empleado para  diseñar y ejecutar un sitio web; destacan dos plataformas web, LAMP y WISA. Explica en qué consiste cada una de ellas.
 
+1. LAMP
+
+LAMP es un acrónimo que representa una pila (stack) de software de código abierto muy popular para el desarrollo y despliegue de aplicaciones web. Está compuesta por:
+
+L – Linux: Sistema operativo base. Proporciona un entorno estable, seguro y de alto rendimiento.
+A – Apache: Servidor web. Se encarga de recibir las solicitudes HTTP de los clientes (navegadores) y servir las páginas web.
+M – MySQL: Sistema de gestión de bases de datos relacional. Almacena y gestiona los datos de la aplicación (aunque a veces se sustituye por MariaDB u otras bases de datos).
+P – PHP: Lenguaje de programación del lado del servidor. Se utiliza para generar contenido dinámico. También puede referirse a Perl o Python, aunque en la práctica casi siempre es PHP.
+
+Características de LAMP:
+
+Es de código abierto y gratuito.
+Muy utilizada en servidores web (especialmente en entornos Linux).
+Altamente personalizable y con una gran comunidad de soporte.
+Ideal para aplicaciones web dinámicas como WordPress, Drupal, Joomla, etc.
+
+2. WISA
+
+WISA es una pila tecnológica basada en productos de Microsoft, diseñada principalmente para entornos empresariales que utilizan infraestructura Windows. El acrónimo significa:
+
+W – Windows Server: Sistema operativo del servidor. Proporciona el entorno base para ejecutar los demás componentes.
+I – IIS (Internet Information Services): Servidor web de Microsoft. Gestiona las solicitudes HTTP/HTTPS y sirve contenido web.
+S – SQL Server: Sistema de gestión de bases de datos relacional desarrollado por Microsoft. Ofrece alta integración con otras herramientas de la empresa.
+A – ASP.NET: Marco de desarrollo de aplicaciones web de Microsoft, que puede usar lenguajes como C# o VB.NET para crear aplicaciones dinámicas.
+
+Características de WISA:
+
+Es una solución comercial (aunque existen versiones gratuitas limitadas, como SQL Server Express).
+Ofrece una alta integración entre sus componentes gracias al ecosistema Microsoft.
+Muy utilizada en entornos corporativos que ya emplean tecnologías Microsoft (como Active Directory, Azure, etc.).
+Requiere licencias para su uso en producción, lo que puede incrementar costos.
+
 #### 3. Lee el siguiente artículo e instala Apache en Ubuntu:
 INSTALACIÓN APACHE
 
