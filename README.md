@@ -7,6 +7,42 @@
 
 #### 1. La arquitectura Web es un modelo compuesto de tres capas, ¿cuáles son y cuál es  la función de cada una de ellas?
 
+1. Capa de Presentación (Frontend o Interfaz de Usuario)
+
+
+Función: Es la capa con la que interactúa directamente el usuario. Se encarga de mostrar la información y capturar las entradas del usuario.
+Tecnologías comunes: HTML, CSS, JavaScript, frameworks como React, Angular o Vue.js.
+
+Responsabilidades:
+
+Mostrar datos de forma amigable.
+Validar entradas del usuario (validación básica).
+Enviar solicitudes al servidor (por ejemplo, mediante llamadas API).
+Recibir y renderizar respuestas del servidor.
+
+2. Capa de Lógica de Negocio (Backend o Aplicación)
+
+Función: Procesa las solicitudes del usuario, aplica las reglas del negocio y coordina la comunicación entre la capa de presentación y la capa de datos.
+Tecnologías comunes: Lenguajes como Java, Python, PHP, Node.js, C#, junto con frameworks como Django, Spring, Express, etc.
+
+Responsabilidades:
+
+Validar y procesar los datos recibidos del frontend.
+Aplicar reglas de negocio (por ejemplo, cálculos, autorizaciones, flujos de trabajo).
+Gestionar la autenticación y autorización.
+Interactuar con la capa de datos para almacenar o recuperar información.
+
+3. Capa de Datos (Base de Datos o Almacenamiento)
+
+Función: Almacena y gestiona los datos de forma persistente y segura.
+Tecnologías comunes: Sistemas de gestión de bases de datos como MySQL, PostgreSQL, MongoDB, Oracle, SQL Server, etc.
+
+Responsabilidades:
+
+Almacenar datos de manera estructurada o no estructurada.
+Permitir operaciones de lectura, escritura, actualización y eliminación (CRUD).
+Garantizar la integridad, seguridad y disponibilidad de los datos.
+
 #### 2. Una plataforma web es el entorno de desarrollo de software empleado para  diseñar y ejecutar un sitio web; destacan dos plataformas web, LAMP y WISA. Explica en qué consiste cada una de ellas.
 
 #### 3. Lee el siguiente artículo e instala Apache en Ubuntu:
