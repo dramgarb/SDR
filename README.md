@@ -194,3 +194,53 @@ ahora vamos a crear el index
 <img width="598" height="184" alt="image" src="https://github.com/user-attachments/assets/bcb05463-ee19-48dc-a674-28e1e318bedd" />
 
 
+### Activity#2 - Configuración básica de Apache
+
+
+#### 1. Apache utilizará el puerto 81 además del 80
+
+para que apache utilize el 81 ademas del 80 tendremos que entrar en este archivo
+
+<img width="871" height="318" alt="image" src="https://github.com/user-attachments/assets/471a9aaa-cbcb-4fb9-9c6a-cf8ec22f5865" />
+
+y modificar lo siguiente añadiendo la linea de Listen 81 y ya estaria
+
+<img width="834" height="535" alt="image" src="https://github.com/user-attachments/assets/31475976-18d5-4e06-9ae9-eb2818acf05b" />
+
+#### 2. Añadir el dominio “marisma.intranet” en el fichero “hosts”
+
+ahora tenemos que entrar en este archivo
+
+<img width="983" height="280" alt="image" src="https://github.com/user-attachments/assets/61d0388a-8e12-4c04-91d5-c9ebb85ec7f9" />
+
+y añadir lo siguiente
+
+<img width="972" height="657" alt="image" src="https://github.com/user-attachments/assets/650839cf-a66f-44d8-8097-071c6c138a06" />
+
+#### 3. Cambia la directiva “ServerTokens” para mostrar el nombre del producto.
+
+primero entramos aqui
+
+<img width="816" height="71" alt="image" src="https://github.com/user-attachments/assets/a38a48dc-b281-468d-bc24-58cc9d293d0a" />
+
+
+y cambiamos esa linea
+
+<img width="941" height="681" alt="image" src="https://github.com/user-attachments/assets/2224cd33-9fc4-4437-a551-9015cbe81123" />
+
+#### 4. Comprueba si se visualiza el pie de página en las páginas generadas por Apache (por ejemplo, en las páginas de error). Cambia el valor de la directiva “ServerSignature” y comprueba que funciona correctamente. 
+
+para configurar esto debemos de entrar en este archivo
+
+<img width="875" height="307" alt="image" src="https://github.com/user-attachments/assets/8df349f4-8408-4add-9eac-236a15ace9d4" />
+
+y tendremos que cambiar esta liena que viene en On y la ponemos en Off
+
+<img width="950" height="599" alt="image" src="https://github.com/user-attachments/assets/ce1ee160-e88a-4db1-93eb-e444e7118300" />
+
+#### 5. Crea un directorio “prueba” y otro directorio “prueba2”. Incluye un par de páginas en cada una de ellas.
+
+primero vamoss a crear los directorios
+
+<img width="913" height="521" alt="image" src="https://github.com/user-attachments/assets/acd4c468-07d3-4bef-845f-6f5e53ea76a5" />
+
