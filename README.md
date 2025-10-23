@@ -240,7 +240,72 @@ y tendremos que cambiar esta liena que viene en On y la ponemos en Off
 
 #### 5. Crea un directorio “prueba” y otro directorio “prueba2”. Incluye un par de páginas en cada una de ellas.
 
-primero vamoss a crear los directorios
-
 <img width="913" height="521" alt="image" src="https://github.com/user-attachments/assets/acd4c468-07d3-4bef-845f-6f5e53ea76a5" />
 
+####Actividad 3 Directorios
+
+1. Crea un directorio llamado "dir1" y otro llamado "dir2" 
+
+<img width="741" height="59" alt="image" src="https://github.com/user-attachments/assets/a6f3a127-92bf-4da8-8709-d97401510720" />
+
+<img width="749" height="44" alt="image" src="https://github.com/user-attachments/assets/76f061b2-38ca-45b9-a224-4b67ad93e205" />
+
+ 
+
+2. Explica qué diferencia existe entre ambos y muestra su equivalencia con la directiva Require: 
+
+- El orden es Denegar, Permitir. Esto significa que primero se evalúan las reglas Deny y luego las Allow.
+
+<Directory /var/www/example1> Order Deny,Allow 
+
+Deny from All 
+
+Allow from 192.168.1.100 
+
+</Directory> 
+
+- El orden es Permitir, Denegar. La última regla que coincide (o la regla final si no coincide ninguna) determina el resultado.
+
+<Directory /var/www/example1> Order Allow,Deny 
+
+Deny from All 
+
+Allow from 192.168.1.100 
+
+</Directory> 
+
+
+Equivalencia con Require:
+
+Ambos ejemplos (donde solo se permite el acceso a 192.168.1.100) son equivalentes a:
+
+<Directory /var/www/example1>
+    Require ip 192.168.1.100
+</Directory>
+
+ 
+3. Para dir1 
+a Permite el acceso de las peticiones provenientes de 10.3.0.100 
+b Permite el acceso desde "marisma.intranet" 
+c Permite el acceso desde cualquier subdominio de "marisma.intranet" 
+d Permite el acceso de las peticiones provenientes de "10.3.0.100" con máscara "255.255.0.0"
+
+ <img width="912" height="28" alt="image" src="https://github.com/user-attachments/assets/ce5c45e0-3f04-497b-abd7-2537916086c8" />
+
+<img width="1031" height="318" alt="image" src="https://github.com/user-attachments/assets/bec4a761-01e2-4a7c-bee8-df28c6977ea3" />
+
+Modifica la configuración de forma que el acceso a dir1: 
+
+Se permita a "marisma.intranet" y no se permita desde 10.3.0.101" 
+
+<img width="717" height="225" alt="image" src="https://github.com/user-attachments/assets/1ebd7d62-ef2f-4d55-bae0-43c150f3c115" />
+
+5. Modifica la configuración de forma que el acceso a dir2: 
+
+Se permita a "10.3.0.100/8" y no a "marisma.intranet" 
+
+<img width="558" height="221" alt="image" src="https://github.com/user-attachments/assets/ee23d852-df8a-47bc-b9b4-5e3e65dff1e8" />
+
+Reiniciamos apache
+
+<img width="668" height="69" alt="image" src="https://github.com/user-attachments/assets/a20a5aec-b016-442e-a516-6b0276611aec" />
