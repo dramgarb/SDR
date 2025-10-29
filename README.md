@@ -242,7 +242,7 @@ y tendremos que cambiar esta liena que viene en On y la ponemos en Off
 
 <img width="913" height="521" alt="image" src="https://github.com/user-attachments/assets/acd4c468-07d3-4bef-845f-6f5e53ea76a5" />
 
-### Activity 3 - Directorios
+### Activity#3 - Directorios
 
 1. Crea un directorio llamado "dir1" y otro llamado "dir2" 
 
