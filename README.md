@@ -309,3 +309,26 @@ Se permita a "10.3.0.100/8" y no a "marisma.intranet"
 Reiniciamos apache
 
 <img width="668" height="69" alt="image" src="https://github.com/user-attachments/assets/a20a5aec-b016-442e-a516-6b0276611aec" />
+
+### Activity#4 - Expresiones regulares
+
+Aqui probamos com palabras
+
+<img width="676" height="213" alt="image" src="https://github.com/user-attachments/assets/59244992-b07e-4408-9ead-ec3a477a1c54" />
+
+Y aqui probamos con numeros telefonicos
+
+<img width="687" height="227" alt="image" src="https://github.com/user-attachments/assets/67d72bea-cde1-437e-b201-a7e24083fabb" />
+
+Ahora creamos un archivo
+
+<img width="607" height="31" alt="image" src="https://github.com/user-attachments/assets/f851b974-3c07-4b85-b8cb-7b489de5dbfb" />
+
+ahora escribimos expresiones dentro
+
+<img width="686" height="368" alt="image" src="https://github.com/user-attachments/assets/9da2f054-7d34-4b20-bb3e-ffa998278cee" />
+
+
+
+
+
