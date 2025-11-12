@@ -328,6 +328,25 @@ ahora escribimos expresiones dentro
 
 <img width="686" height="368" alt="image" src="https://github.com/user-attachments/assets/9da2f054-7d34-4b20-bb3e-ffa998278cee" />
 
+probamos el email con el archivo
+
+<img width="685" height="183" alt="image" src="https://github.com/user-attachments/assets/95abed99-33cf-4697-933c-7521743b937b" />
+
+probamos los numeros
+
+<img width="683" height="111" alt="image" src="https://github.com/user-attachments/assets/2a27fa9f-1a93-46ed-af06-0abe1e0b899c" />
+
+ahora entramos en este archivo para añadir lo que necesitamos para el redireccionamiento
+
+<img width="696" height="49" alt="image" src="https://github.com/user-attachments/assets/0ebd85a4-9a0a-4657-8433-89be9a12452f" />
+
+añadirmos esta linea
+
+<img width="690" height="487" alt="image" src="https://github.com/user-attachments/assets/76078140-da77-4c76-9377-d40223303919" />
+
+y probamos
+
+<img width="860" height="406" alt="image" src="https://github.com/user-attachments/assets/9567f7d9-719d-4d43-951c-7f894061cd54" />
 
 
 
