@@ -348,6 +348,58 @@ y probamos
 
 <img width="860" height="406" alt="image" src="https://github.com/user-attachments/assets/9567f7d9-719d-4d43-951c-7f894061cd54" />
 
+y ahora solo nos faltaria probar uno que funcione y otro que falle para verlo
+
+<img width="995" height="96" alt="image" src="https://github.com/user-attachments/assets/55d9b0cd-1655-4694-ba17-0641768f874d" />
+
+
+### Activity#5 - Reescritura
+
+primero tenemos que instalar php para ello hacemos lo siguiente
+
+<img width="662" height="67" alt="image" src="https://github.com/user-attachments/assets/337ae8d6-11d6-4a96-9a1b-6d35bc95fc38" />
+
+y instalamos
+
+<img width="869" height="38" alt="image" src="https://github.com/user-attachments/assets/33386ab1-0c87-4414-bb5a-19541330f33b" />
+
+habilitamos el modo rewrite en apache
+
+<img width="640" height="71" alt="image" src="https://github.com/user-attachments/assets/14e73a17-2208-45c2-8b29-c76e7c1888fb" />
+
+y reiniamos apache para aplicar los cambios
+
+<img width="758" height="56" alt="image" src="https://github.com/user-attachments/assets/6ded4433-c8eb-4f25-ba95-5dac217cea92" />
+
+ahora creamos este fichero
+
+<img width="765" height="37" alt="image" src="https://github.com/user-attachments/assets/d9029d5d-6b40-48e3-a77e-e1da3002edf5" />
+
+y le ponemos esto
+
+<img width="1074" height="680" alt="image" src="https://github.com/user-attachments/assets/8cd63aee-dc99-4352-afd2-4515075d353e" />
+
+ahora abrimos el archivo de configuracion
+
+<img width="900" height="36" alt="image" src="https://github.com/user-attachments/assets/abf36b9b-5f5e-4db5-b58c-6abb201e3b34" />
+
+y le añadimos esto
+
+<img width="1088" height="681" alt="image" src="https://github.com/user-attachments/assets/38ece3e5-4b0e-454a-8886-54970f118307" />
+
+comprobamos si esta bien escrito
+
+<img width="1035" height="114" alt="image" src="https://github.com/user-attachments/assets/23ee6b82-d42b-41ef-a02c-bbdb0928ac09" />
+
+reiniciamos apache
+
+<img width="685" height="58" alt="image" src="https://github.com/user-attachments/assets/c0fd8aa6-bcd4-4cf9-bafc-7aa46442c910" />
+
+y comprobamos
+
+<img width="1042" height="310" alt="image" src="https://github.com/user-attachments/assets/de844caa-5167-4f9c-b51a-83c0ad82ade4" />
+
+
 
 
 
