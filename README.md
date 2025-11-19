@@ -451,6 +451,55 @@ el sitio2
 <img width="889" height="312" alt="image" src="https://github.com/user-attachments/assets/f0839e96-0fa3-42a6-8e4f-2dfa93787b6e" />
 
 
+### Activity#7 - Autentificacion
+
+primero tenemos que instalar esto
+
+<img width="697" height="25" alt="image" src="https://github.com/user-attachments/assets/c2709927-aee6-4e60-8739-b47ecb0c7807" />
+
+ahora creamos los usuario
+
+<img width="697" height="25" alt="image" src="https://github.com/user-attachments/assets/58fef301-ed42-4289-9d2e-5e6b23db7f06" />
+
+y ahora estos cuatro
+
+<img width="893" height="341" alt="image" src="https://github.com/user-attachments/assets/702ffa5b-6ebf-4ec6-8d51-17482f585d80" />
+
+ahora tenemos que crear los grupos para ello primero creamos el archivo
+
+<img width="793" height="56" alt="image" src="https://github.com/user-attachments/assets/876ceb39-cc20-4b82-b672-abaf44bd151e" />
+
+y le ponemos este contenido
+
+<img width="749" height="179" alt="image" src="https://github.com/user-attachments/assets/0b463b3d-08bf-4926-b3fd-c63ce8ff90cc" />
+
+para crear las carpetas hacemos lo siguiente
+
+<img width="764" height="82" alt="image" src="https://github.com/user-attachments/assets/aaa6dfd3-8e0e-4156-b4bc-891f0c196118" />
+
+ponemos algo para ver que funcionan
+
+<img width="1029" height="147" alt="image" src="https://github.com/user-attachments/assets/162a6545-d09c-4f70-a2b1-6de8d902c055" />
+
+ahora editamos el archivo de configuracion para proteger estas carpetas
+
+<img width="978" height="35" alt="image" src="https://github.com/user-attachments/assets/1b815ea9-f2da-47d6-a220-3a829340457a" />
+
+y le agregamos esto despues de la parte de la actividad anterior
+
+<img width="652" height="368" alt="image" src="https://github.com/user-attachments/assets/da683458-8612-4fd2-b671-48d7cf19e04b" />
+
+ahora comprobamos si esta bien escrito y reiniciamos
+
+<img width="1023" height="128" alt="image" src="https://github.com/user-attachments/assets/ec6092ed-8252-462c-866e-4e7bd841a883" />
+
+
+
+
+
+
+
+
 
 
 
