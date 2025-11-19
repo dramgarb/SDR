@@ -400,6 +400,61 @@ y comprobamos
 <img width="1042" height="310" alt="image" src="https://github.com/user-attachments/assets/de844caa-5167-4f9c-b51a-83c0ad82ade4" />
 
 
+### Activity#6 - Virtual Host
+
+primero vamos a crear la estructura de directorios que necesitamos para esta practica
+
+<img width="805" height="148" alt="image" src="https://github.com/user-attachments/assets/07292230-94dd-4cfd-a4aa-22367fd18ced" />
+
+ahora creamos contenido de prueba
+
+<img width="1029" height="205" alt="image" src="https://github.com/user-attachments/assets/59a59d77-eecc-4654-8c29-70f6ad1b064b" />
+
+ahora creamos el primer archivo
+
+<img width="876" height="49" alt="image" src="https://github.com/user-attachments/assets/ffd0d719-f04c-42b3-8342-00f609211ef7" />
+
+
+y le ponemos el siguiente contenido
+
+<img width="764" height="291" alt="image" src="https://github.com/user-attachments/assets/d23bf7ac-3492-48ad-baa0-e87dbf117390" />
+
+
+hacemos lo mismo con el segundo
+
+<img width="874" height="40" alt="image" src="https://github.com/user-attachments/assets/fa33c2bb-4264-4990-8127-cd04a06e61ec" />
+
+y le pegamos el contenido
+
+<img width="809" height="302" alt="image" src="https://github.com/user-attachments/assets/04f3c5ab-cb53-4672-a02c-b431793b39a0" />
+
+habilitamos los nuevos sitios y reiniciamos apache para que se aplique la configuracion
+
+<img width="687" height="218" alt="image" src="https://github.com/user-attachments/assets/88b2751b-a7ec-4206-8537-356983d7854e" />
+
+ahora tenemos que editar este archivo
+
+<img width="712" height="45" alt="image" src="https://github.com/user-attachments/assets/f36f5e2a-b013-49e7-8fee-3e602a094f7d" />
+
+para añadir estas dos lineas
+
+<img width="705" height="329" alt="image" src="https://github.com/user-attachments/assets/ffa3c09c-f9de-4577-a3c4-926123fdba88" />
+
+ahora solo falta probarlos
+
+el sitio1
+
+<img width="884" height="306" alt="image" src="https://github.com/user-attachments/assets/46794de5-1803-4361-962e-2be242771615" />
+
+el sitio2
+
+<img width="889" height="312" alt="image" src="https://github.com/user-attachments/assets/f0839e96-0fa3-42a6-8e4f-2dfa93787b6e" />
+
+
+
+
+
+
 
 
 
