@@ -494,6 +494,64 @@ ahora comprobamos si esta bien escrito y reiniciamos
 <img width="1023" height="128" alt="image" src="https://github.com/user-attachments/assets/ec6092ed-8252-462c-866e-4e7bd841a883" />
 
 
+### Acivity#8 - Autentificacion
+
+primero activamos el modulo y reiniciamos apache
+
+<img width="801" height="179" alt="image" src="https://github.com/user-attachments/assets/95aaaea0-c99b-4859-b310-c7acabb3b5ce" />
+
+ahora vamos a crear las carpetas
+
+<img width="861" height="94" alt="image" src="https://github.com/user-attachments/assets/d9e9b60b-1585-4ab8-8da8-41b6f6d87cc3" />
+
+creamos un archivo de prueba para cada uno
+
+<img width="1026" height="150" alt="image" src="https://github.com/user-attachments/assets/fd411e85-68c7-46b9-ae96-dea1f73459ab" />
+
+creamos el usuario y el archivo
+
+<img width="892" height="136" alt="image" src="https://github.com/user-attachments/assets/dd2c4978-f2aa-45e5-8fa4-d359944c0f69" />
+
+creamos el sugundo usuario
+
+<img width="896" height="147" alt="image" src="https://github.com/user-attachments/assets/7f30c92a-163a-49bb-a9d8-f2cca64943e2" />
+
+ahora tenemos que configurar el archivo de configuracion
+
+<img width="993" height="39" alt="image" src="https://github.com/user-attachments/assets/9b496a03-1518-4b1f-a06a-f9a1b49eccb4" />
+
+y añadimos esta configuracion
+
+<img width="992" height="617" alt="image" src="https://github.com/user-attachments/assets/fe39cad3-6c0a-4497-b075-bada9ecc65b8" />
+
+verificamos la sintaxis
+
+<img width="1027" height="149" alt="image" src="https://github.com/user-attachments/assets/a0d06470-b6cb-4008-ae08-386f9595c11b" />
+
+y reiniciamos apache
+
+<img width="749" height="53" alt="image" src="https://github.com/user-attachments/assets/f2f451a4-3005-42a7-932c-aff9d77f8c2a" />
+
+ahora intentamos entrar como pepe al grupo 1 
+
+<img width="657" height="361" alt="image" src="https://github.com/user-attachments/assets/c24a4c94-3547-416f-83fc-d8a2baa23f69" />
+
+y como podemos ver va
+
+<img width="661" height="135" alt="image" src="https://github.com/user-attachments/assets/7775abbb-a7ba-49f6-a08a-6294e64a4468" />
+
+ahora para esta vamos a hacer que falle primero intentando entrar con pepe
+
+<img width="876" height="340" alt="image" src="https://github.com/user-attachments/assets/2c1fb355-42eb-4649-a9ac-b721514b8bd4" />
+
+como se puede ver no entra y vuelve a pedir usuario y contraseña ahora le vamos a poner juan
+
+<img width="923" height="334" alt="image" src="https://github.com/user-attachments/assets/335f2d18-15fc-48b7-b688-7d983355094d" />
+
+y como se puede ver entra perfectamente
+
+<img width="622" height="150" alt="image" src="https://github.com/user-attachments/assets/72d9060c-7597-4db8-9986-e28d2e575372" />
+
 
 
 
