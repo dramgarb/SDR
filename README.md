@@ -553,12 +553,76 @@ y como se puede ver entra perfectamente
 <img width="622" height="150" alt="image" src="https://github.com/user-attachments/assets/72d9060c-7597-4db8-9986-e28d2e575372" />
 
 
+### Activity#9 - Autentificacion
+
+primero tenemos que instalar los paquetes necesarios
+
+<img width="897" height="439" alt="image" src="https://github.com/user-attachments/assets/16045761-df8a-4fe8-a91a-aee148c428e8" />
+
+<img width="1014" height="435" alt="image" src="https://github.com/user-attachments/assets/874c19b1-e94f-40cc-ac5e-188822b42b4f" />
+
+ahora necesitaremos activar el modulo de apache para la base de datos
+
+<img width="836" height="182" alt="image" src="https://github.com/user-attachments/assets/65945db2-6cfa-4d12-b9d6-111cad50f1e9" />
+
+ahora tenemos que preparar la base de datos
+
+<img width="703" height="212" alt="image" src="https://github.com/user-attachments/assets/1b3cfcec-6a0a-43da-87c5-19d58c2b06e8" />
+
+creamos
+
+<img width="423" height="56" alt="image" src="https://github.com/user-attachments/assets/9872511c-a5bc-48ac-a5f1-822d0b11321a" />
+
+ponemos para usar la base de datos
+
+<img width="328" height="60" alt="image" src="https://github.com/user-attachments/assets/7d449216-505e-483d-96e9-3ec661eb2925" />
+
+creamos la tabla de usuarios
+
+<img width="541" height="169" alt="image" src="https://github.com/user-attachments/assets/fc68d44d-daf9-4bac-8c87-33d25cf805a7" />
+
+creamos un usuario
+
+<img width="893" height="61" alt="image" src="https://github.com/user-attachments/assets/4ab886bb-9230-483b-9348-6349c14f1a36" />
+
+y le damos permisos
+
+<img width="732" height="61" alt="image" src="https://github.com/user-attachments/assets/a6a8faba-d730-4a61-801e-93141041acb3" />
+
+ahora insertamos un usuario de prueba
+
+<img width="993" height="102" alt="image" src="https://github.com/user-attachments/assets/ba6f2122-afee-4cc5-980f-0e96e9f6ef01" />
+
+nos salimos
+
+<img width="437" height="90" alt="image" src="https://github.com/user-attachments/assets/2d75ef87-133c-4e72-b04b-d5c7433a2818" />
+
+ahora creamos la carpeta que vamos a proteger
+
+<img width="1031" height="129" alt="image" src="https://github.com/user-attachments/assets/9e058f94-23ba-42d1-b81a-13aafce7c568" />
+
+editamos el archivo de configuracion
+
+<img width="926" height="30" alt="image" src="https://github.com/user-attachments/assets/b53976a3-9411-4c9b-b269-34492bdf27ba" />
+
+y le añadimos esto
+
+<img width="958" height="537" alt="image" src="https://github.com/user-attachments/assets/e2885d7e-72ad-498e-8d69-8b3be2e29538" />
+
+comprobamos la sintaxis
+
+<img width="1028" height="116" alt="image" src="https://github.com/user-attachments/assets/edb13617-2f3f-4fa7-ae9c-bb7e2ed4cde9" />
+
+reiniciamos apache
+
+<img width="697" height="52" alt="image" src="https://github.com/user-attachments/assets/8f63c652-d429-4020-ba6d-61db15820f66" />
+
+ahora comprobamos entrando a la url y poniendo usuario y contraseña
+
+<img width="788" height="328" alt="image" src="https://github.com/user-attachments/assets/87646d98-96ca-405a-a3b3-13424ccc3127" />
 
 
-
-
-
-
+<img width="621" height="151" alt="image" src="https://github.com/user-attachments/assets/71736021-8e89-4327-bd5e-9e914efe08db" />
 
 
 
