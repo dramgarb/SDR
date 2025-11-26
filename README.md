@@ -625,6 +625,80 @@ ahora comprobamos entrando a la url y poniendo usuario y contraseña
 <img width="621" height="151" alt="image" src="https://github.com/user-attachments/assets/71736021-8e89-4327-bd5e-9e914efe08db" />
 
 
+### Activity#10 - SSL
+
+en nuestra instancia de AWS tenemos que instalar apache para ello primero hacemos un update
+
+<img width="1109" height="649" alt="image" src="https://github.com/user-attachments/assets/8e868ebd-6c55-4691-9ca8-60013b74fa5f" />
+
+y despues instalamos apache
+
+<img width="1449" height="258" alt="image" src="https://github.com/user-attachments/assets/fac03d3b-7c26-4611-9d78-7bd45aa82df9" />
+
+como podoemos ver entrando a la ip desde el navegador nos sale ya la pagina de por defecto de apache
+
+<img width="1113" height="994" alt="image" src="https://github.com/user-attachments/assets/fa38a814-a726-49ce-9c55-e3698f8b758e" />
+
+ahora tendremos que activar el modulo SSL
+
+<img width="1012" height="301" alt="image" src="https://github.com/user-attachments/assets/7a2c83bc-fb8c-483d-8c99-b01434955639" />
+
+y reinicamos apache
+
+<img width="673" height="132" alt="image" src="https://github.com/user-attachments/assets/d434463e-f318-4222-a035-d6f8b8cae680" />
+
+ahora vamos a generar el certificado, ejecutamos el siguiente comando
+tenemos que responder las siguientes preguntas para hacerlo en la captura se ve, y en la ultima ponemos nuestra ip publica
+
+<img width="1919" height="528" alt="image" src="https://github.com/user-attachments/assets/93028441-670f-4f71-9b33-2258ce256d60" />
+
+ahora tenemos que en los archivos de configuracion decir donde tenemos los archivos nuevos
+
+<img width="878" height="118" alt="image" src="https://github.com/user-attachments/assets/a39bf14e-cc50-4c85-9ba5-68a8a3c74bb6" />
+
+y tenemos que modificar las dos lineas marcadas en el cuadro rojo para dar la ubicacion correcta
+
+<img width="1312" height="839" alt="image" src="https://github.com/user-attachments/assets/e740454c-65bd-49ad-872d-7b2eedf957f5" />
+
+ahora tenemos que "encender" el sitio web y reiniciar apache despues
+
+<img width="668" height="198" alt="image" src="https://github.com/user-attachments/assets/1df6d1f6-7aa0-44db-a960-5a0213295ef5" />
+
+ahora entramos a la https://(la ip publica) y como vemos nos aparece la pantalla de que nos es seguro
+
+<img width="1576" height="626" alt="image" src="https://github.com/user-attachments/assets/82334224-1198-4d28-8037-ab6eb5b8c0b7" />
+
+ahora tenemos que consegui que nuestra web sea segura para ello primero entraremos en esta web
+
+<img width="1905" height="1007" alt="image" src="https://github.com/user-attachments/assets/e0594f1d-9448-489a-9356-50218d405971" />
+
+en la que nos vamos a registrar y haremos clic despues donde pone dynamic DNS hostname
+
+<img width="1919" height="910" alt="image" src="https://github.com/user-attachments/assets/4ab74301-a2f1-41a4-91f6-6b820b07b51e" />
+
+y despues le damos a create hostname
+
+<img width="1919" height="600" alt="image" src="https://github.com/user-attachments/assets/3533b6a3-981f-414f-a871-07d5f4b6f9d1" />
+
+aqui tendremos que ponerle nombre y poner la ip publica de nuestra maquina en mi caso va a ser asi
+
+<img width="1522" height="453" alt="image" src="https://github.com/user-attachments/assets/ccd5aa95-ca72-4f6f-9c79-fb05c5e9533b" />
+
+ahora vamos a instalar cerbot para ello vovemos a la maquina
+
+<img width="1895" height="328" alt="image" src="https://github.com/user-attachments/assets/1cc5672d-e146-4c56-bb9b-72a1cda7a563" />
+
+ahora validamos nuestro domino
+
+<img width="726" height="155" alt="image" src="https://github.com/user-attachments/assets/5a23856b-fc50-498f-84e2-1a364aa21b08" />
+
+tendremos que responder a estas preguntas y al final poner el nombre que hemos elegido antes
+
+<img width="1719" height="811" alt="image" src="https://github.com/user-attachments/assets/37593d4f-08c1-447a-a7e5-866f8a1adfd3" />
+
+y ahora la prueba definitivaa vamos a entrar desde el navegador con el nombre que hemos elegido y no tendrias que salir que es peligroso
+
+<img width="1203" height="1000" alt="image" src="https://github.com/user-attachments/assets/bd73111b-3e5f-485c-be39-99950b4c311e" />
 
 
 
