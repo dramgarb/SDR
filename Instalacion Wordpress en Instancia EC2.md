@@ -65,6 +65,10 @@ ahora elegimos identificador, usuario. elegimos poder poner la contraseña, y po
 
 <img width="1655" height="702" alt="image" src="https://github.com/user-attachments/assets/535ded04-3423-4a36-86a0-1c979b4618c5" />
 
+tenemos que poner esto en la de almacenamiento
+
+<img width="1411" height="410" alt="image" src="https://github.com/user-attachments/assets/be1db02a-44c3-4584-bdff-a00f5086534a" />
+
 en configuracion de instancia ponemos la db.t3.micro
 
 <img width="1467" height="386" alt="image" src="https://github.com/user-attachments/assets/a2973159-4d39-477e-919b-763e5de8626e" />
@@ -76,4 +80,40 @@ ahora en el apartado de conectividad tenemos que poner que no se conecte a un re
 es importante en configuracion adicional poner el nombre para la base de datos inicial
 
 <img width="1225" height="413" alt="image" src="https://github.com/user-attachments/assets/88531bc2-e89e-4c1b-a699-1420498c234e" />
+
+despues de la configuracion le damos a crear y empezara el proceso
+
+<img width="1905" height="496" alt="image" src="https://github.com/user-attachments/assets/d5121c5f-2e82-469c-936b-9053d4061db9" />
+
+al los minutos nos saldra ya un mensaje diciendo que se a crado correctamente
+
+<img width="1909" height="572" alt="image" src="https://github.com/user-attachments/assets/6aa3f64f-89bd-4c85-9185-3ca7030f4b25" />
+
+tendremos que marcarla y darle a acciones y a configurar conexion de EC2
+
+<img width="1652" height="769" alt="image" src="https://github.com/user-attachments/assets/017ff6fc-d847-4880-b41a-ff1533c16623" />
+
+marcamos la nuestra y le damos a continuar
+
+<img width="1559" height="608" alt="image" src="https://github.com/user-attachments/assets/62c780fd-7ca3-43c1-b611-059d97cd9249" />
+
+despues nos saldra el mensaje de que la conexion se a realizado con exito
+
+<img width="1627" height="512" alt="image" src="https://github.com/user-attachments/assets/0b9d3620-5c18-4147-8d46-e3ed7e2de2a6" />
+
+ahora tenemos que pasar a la parte de crear un dico duro compartido para ello buscamos este servicio
+
+<img width="992" height="866" alt="image" src="https://github.com/user-attachments/assets/33b1f14e-57d4-4716-aa44-1bff76784bd6" />
+
+y le damos a cerar un sistema de archivos
+
+<img width="1753" height="838" alt="image" src="https://github.com/user-attachments/assets/ebfb8a6b-9564-4acb-b2fd-0bd15f552609" />
+
+aqui elegimos el nombre y marcamos la VPC que creamos
+
+<img width="868" height="864" alt="image" src="https://github.com/user-attachments/assets/c4307a59-1ad4-44f5-8e56-273335106856" />
+
+y hay lo tendremos nos saldra el mensaje de listo
+
+<img width="1716" height="586" alt="image" src="https://github.com/user-attachments/assets/e039c3e5-db4f-4d4b-9ce3-32c9d0bb6272" />
 
