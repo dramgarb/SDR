@@ -117,3 +117,60 @@ y hay lo tendremos nos saldra el mensaje de listo
 
 <img width="1716" height="586" alt="image" src="https://github.com/user-attachments/assets/e039c3e5-db4f-4d4b-9ce3-32c9d0bb6272" />
 
+he perdido las capturas de todos los pasos que he avanzado en una hora voy a poner las cosas hechas
+
+entramos en grupo de seguridad
+
+<img width="926" height="906" alt="image" src="https://github.com/user-attachments/assets/1d8062bd-c4c6-48d5-b8cb-175dd9636f4c" />
+
+entramos en el default
+
+<img width="746" height="307" alt="image" src="https://github.com/user-attachments/assets/997416ca-ccab-49b9-9420-2e4c9b0877ac" />
+
+y lo configuramos asi
+
+<img width="1786" height="704" alt="image" src="https://github.com/user-attachments/assets/30502b08-2e17-489f-a4fa-222881669ba0" />
+
+y despues los comando que he ejecutado fueron los siguiente
+
+<img width="448" height="41" alt="image" src="https://github.com/user-attachments/assets/21111402-4271-41ef-884b-1d6688fd950c" />
+
+<img width="258" height="39" alt="image" src="https://github.com/user-attachments/assets/d903f7a8-2264-4a20-a14b-438d44910c14" />
+
+despues en AWS tenemos que copiar ese comando el primero poniendolo en IP y lo ejecutamos en la conexion ssh
+
+<img width="1821" height="620" alt="image" src="https://github.com/user-attachments/assets/16cc08ff-6ab0-44e6-97f7-ecf7ed4ad1e9" />
+
+<img width="853" height="53" alt="image" src="https://github.com/user-attachments/assets/e5ac19c5-789e-435c-b42d-745606e6ed83" />
+
+despues nos vamos a esa carpeta
+
+en estos comandos completamos los siguientes pasos:
+- nos vamos a la carpeta
+- borramos el archivo de bienvenida
+- descargamos wordpress
+- descomprimimos el archivo
+- movemos los archivos a la carpeta principal
+- y eleminamos la carpeta vacia y el comprimido
+
+<img width="346" height="49" alt="image" src="https://github.com/user-attachments/assets/ed9ad7b7-c58a-4436-98fc-c8fc8224b9ef" />
+
+<img width="363" height="30" alt="image" src="https://github.com/user-attachments/assets/5ad4fffc-143d-4f71-b63b-f49e074cae8c" />
+
+<img width="564" height="44" alt="image" src="https://github.com/user-attachments/assets/4879416e-0ae7-4b4f-a595-1a2337964a53" />
+
+<img width="499" height="25" alt="image" src="https://github.com/user-attachments/assets/b426951c-5b6d-47ba-bbb7-5245b2738708" />
+
+<img width="358" height="32" alt="image" src="https://github.com/user-attachments/assets/6258d29f-c0b8-4475-b7e2-90128aa47654" />
+
+<img width="398" height="35" alt="image" src="https://github.com/user-attachments/assets/d3b9c3e5-bb6a-4926-b7a4-303fa5d00eb4" />
+
+<img width="413" height="53" alt="image" src="https://github.com/user-attachments/assets/3361f9e3-47a2-4081-b78d-ab54ea71c970" />
+
+
+despues de esto ya puedo continuar por donde iba antes de perderlo todo
+
+instalamos el cliente mysql
+
+<img width="843" height="377" alt="image" src="https://github.com/user-attachments/assets/b4a594c0-1c8e-4ae8-a981-5067177605ed" />
+
