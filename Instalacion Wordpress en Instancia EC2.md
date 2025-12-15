@@ -211,3 +211,8 @@ reiniciamos
 y nos sale la pagina de wordpress
 
 <img width="1093" height="858" alt="image" src="https://github.com/user-attachments/assets/89b09611-5175-4364-af5f-0357c2232d5f" />
+
+y listo
+
+<img width="1857" height="934" alt="image" src="https://github.com/user-attachments/assets/d572c29f-f712-4035-8849-d50767d55643" />
+
