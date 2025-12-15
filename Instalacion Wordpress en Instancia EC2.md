@@ -174,3 +174,40 @@ instalamos el cliente mysql
 
 <img width="843" height="377" alt="image" src="https://github.com/user-attachments/assets/b4a594c0-1c8e-4ae8-a981-5067177605ed" />
 
+entramos en AWS en RDS
+
+<img width="1037" height="918" alt="image" src="https://github.com/user-attachments/assets/190b19b9-0ef0-47df-aff9-815ad2fa049b" />
+
+y tenemos que entrar en nuestra base de datos
+
+<img width="1615" height="645" alt="image" src="https://github.com/user-attachments/assets/458e34cf-a78d-428d-81ef-fe8f92a378b9" />
+
+y copiamos el punto de enlace
+
+<img width="1431" height="799" alt="image" src="https://github.com/user-attachments/assets/4053244b-7908-4590-97ee-ec355487ffb8" />
+
+y lo pegamos asi en el ssh
+
+<img width="792" height="160" alt="image" src="https://github.com/user-attachments/assets/4d13a34f-f502-4b78-a27f-6604eda803e9" />
+
+y ejecutamos los siguientes comandos
+
+<img width="771" height="227" alt="image" src="https://github.com/user-attachments/assets/b918fe75-ed39-4d66-8d64-0a13b085403c" />
+
+ahora vamos a preparar para conectar con el wordpress
+
+primero hacemos esto
+
+<img width="586" height="57" alt="image" src="https://github.com/user-attachments/assets/38ca260b-96f1-41cc-ac8e-6d60a9149916" />
+
+ahora editamos el archivo
+
+<img width="836" height="683" alt="image" src="https://github.com/user-attachments/assets/bf681c28-045f-449f-b390-d2a11cb99094" />
+
+reiniciamos
+
+<img width="746" height="32" alt="image" src="https://github.com/user-attachments/assets/060d91f8-176d-4e6b-9149-86ff2c8ab6bd" />
+
+y nos sale la pagina de wordpress
+
+<img width="1093" height="858" alt="image" src="https://github.com/user-attachments/assets/89b09611-5175-4364-af5f-0357c2232d5f" />
