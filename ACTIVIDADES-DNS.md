@@ -60,7 +60,8 @@ volvemos a mirar que arranco bien
 
 <img width="1424" height="207" alt="image" src="https://github.com/user-attachments/assets/b8185b85-9fa8-4172-976e-6f96d006a57d" />
 
-ahora vamos a hacer una prueba
+ahora vamos a hacer una prueba como vemos en una hay respuesta de tiempo y la otra tiene 0 de tiempo de respuesta
 
-<img width="747" height="494" alt="image" src="https://github.com/user-attachments/assets/3e7e23df-ae3e-4ebb-8b22-da7ce46ec2c3" />
+<img width="934" height="820" alt="image" src="https://github.com/user-attachments/assets/82b43da5-24eb-4b9a-b81e-5bbdfc0b7d32" />
+
 
