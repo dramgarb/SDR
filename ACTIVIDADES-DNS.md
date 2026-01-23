@@ -65,3 +65,27 @@ ahora vamos a hacer una prueba como vemos en una hay respuesta de tiempo y la ot
 <img width="934" height="820" alt="image" src="https://github.com/user-attachments/assets/82b43da5-24eb-4b9a-b81e-5bbdfc0b7d32" />
 
 
+## Actividad 6
+
+Primero, debemos decirle a BIND que él es el maestro de la zona
+
+<img width="1050" height="418" alt="image" src="https://github.com/user-attachments/assets/41aa2464-ba98-4965-a19e-0e13c2d85844" />
+
+y le ponemos esto
+
+<img width="1387" height="472" alt="image" src="https://github.com/user-attachments/assets/e1ecb3e7-c970-4b82-b08c-f56a580fb8f2" />
+
+Aquí definimos los nombres (ns1, www, mail) y les asignamos IPs.
+
+<img width="861" height="37" alt="image" src="https://github.com/user-attachments/assets/c573e736-9727-4a2d-8183-ada5d9f9d84f" />
+
+<img width="1231" height="827" alt="image" src="https://github.com/user-attachments/assets/cba1ba97-d7f0-4d20-a7e8-a569455859d6" />
+
+ahora vamos a crear el archivo de la zona inversa
+
+<img width="764" height="130" alt="image" src="https://github.com/user-attachments/assets/485244cf-5f79-46bd-8078-b4ac12b1d1b9" />
+
+y dentro le ponemos esto
+
+<img width="1267" height="821" alt="image" src="https://github.com/user-attachments/assets/b4e8c325-21f2-4ec1-a8d6-3a2efc9857cd" />
+
