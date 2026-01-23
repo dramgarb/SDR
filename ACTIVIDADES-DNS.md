@@ -89,3 +89,25 @@ y dentro le ponemos esto
 
 <img width="1267" height="821" alt="image" src="https://github.com/user-attachments/assets/b4e8c325-21f2-4ec1-a8d6-3a2efc9857cd" />
 
+comprobamos que no hay errores
+
+<img width="923" height="244" alt="image" src="https://github.com/user-attachments/assets/89dd86ac-3911-43a0-a576-c480e2d33955" />
+
+reiniciamos
+
+<img width="738" height="140" alt="image" src="https://github.com/user-attachments/assets/bb7972d2-9710-49b7-8f58-357d4e87b1a3" />
+
+ahora para poder usar el windows de mi ordenador vamos a hacer lo siguiente
+
+<img width="1821" height="801" alt="image" src="https://github.com/user-attachments/assets/a53f61c0-33dc-4407-927e-7a930700f531" />
+
+y tenemos que modificar este archivo
+
+<img width="825" height="181" alt="image" src="https://github.com/user-attachments/assets/e7f5b074-cd12-45e8-aa76-312269d11f63" />
+
+ahora desde el windows hacemos lo siguiente
+
+primero limpiamos el dns
+
+<img width="557" height="193" alt="image" src="https://github.com/user-attachments/assets/3b5e1466-6f2b-4dcd-85d5-d285e4d82d26" />
+
