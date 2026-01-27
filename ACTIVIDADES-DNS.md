@@ -131,4 +131,20 @@ preguntamos por la IP para ver si nos devuelve el nombre
 
 <img width="572" height="121" alt="image" src="https://github.com/user-attachments/assets/57c00162-337e-4b57-af9c-770a1f18f3fc" />
 
-## Actividad
+## Actividad 8
+
+primero tenemos que declarar la nueva zona
+
+<img width="749" height="21" alt="image" src="https://github.com/user-attachments/assets/15fc535c-1bc3-4da3-8ed8-d1ebd43bb4ea" />
+
+<img width="1506" height="838" alt="image" src="https://github.com/user-attachments/assets/a6ea0a5b-2db6-4d72-ade3-1b8da2f226f0" />
+
+ahora creamos el archivo de zona con el subdominio
+
+<img width="1059" height="44" alt="image" src="https://github.com/user-attachments/assets/c703c4d9-80b6-4a71-8237-ec87d4c9c1fd" />
+
+y dentro del archivo ponemos esto
+
+<img width="1313" height="836" alt="image" src="https://github.com/user-attachments/assets/8be7b30c-99bb-4012-9af7-79b0bd55f47d" />
+
+
