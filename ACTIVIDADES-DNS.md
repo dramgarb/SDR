@@ -145,6 +145,27 @@ ahora creamos el archivo de zona con el subdominio
 
 y dentro del archivo ponemos esto
 
-<img width="1313" height="836" alt="image" src="https://github.com/user-attachments/assets/8be7b30c-99bb-4012-9af7-79b0bd55f47d" />
+<img width="1238" height="810" alt="image" src="https://github.com/user-attachments/assets/a25898d4-efe2-449a-a283-b530da814b41" />
+
+verificamos que no hay errores de sintaxis y reiniciamos
+
+<img width="649" height="142" alt="image" src="https://github.com/user-attachments/assets/b07e8d06-171c-464e-a0bf-c525f0698915" />
+
+ahora pasamos a nuestro pc para comprobar que todo a funcionado como deberia
+
+<img width="613" height="260" alt="image" src="https://github.com/user-attachments/assets/a6249bfc-b42b-4842-8cf4-9c1928384223" />
+
+probamos el dominio principal
+
+<img width="492" height="165" alt="image" src="https://github.com/user-attachments/assets/b10860d4-30f1-4620-9b74-2260b29b09b4" />
+
+ahora probamos el subdominio
+
+<img width="523" height="145" alt="image" src="https://github.com/user-attachments/assets/1e76154b-76f1-4ccc-809a-a41cdc5fd232" />
+
+como prueba extra probamos el correo del subdominio
+
+<img width="510" height="132" alt="image" src="https://github.com/user-attachments/assets/fa17d50e-8b46-428a-8a0b-3112fa535e45" />
+
 
 
