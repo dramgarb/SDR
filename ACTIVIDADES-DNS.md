@@ -111,3 +111,24 @@ primero limpiamos el dns
 
 <img width="557" height="193" alt="image" src="https://github.com/user-attachments/assets/3b5e1466-6f2b-4dcd-85d5-d285e4d82d26" />
 
+y despeus vemos como nos responde
+
+<img width="915" height="448" alt="image" src="https://github.com/user-attachments/assets/457441d6-d4a0-440a-8b36-c707833a143b" />
+
+ahora vamos a consultar el servidor de correos
+
+<img width="795" height="178" alt="image" src="https://github.com/user-attachments/assets/5d7f1a9f-30b1-4cf6-a806-539bf6401225" />
+
+ahora vamos a consultar el servidor de nombres
+
+<img width="766" height="126" alt="image" src="https://github.com/user-attachments/assets/2f6ace59-ed68-44de-8751-531f942e97c3" />
+
+ahora consultamos la autoridad de la zona
+
+<img width="693" height="236" alt="image" src="https://github.com/user-attachments/assets/0ea670d6-0f31-41e4-ac7c-1c62913f5247" />
+
+preguntamos por la IP para ver si nos devuelve el nombre
+
+<img width="572" height="121" alt="image" src="https://github.com/user-attachments/assets/57c00162-337e-4b57-af9c-770a1f18f3fc" />
+
+## Actividad
