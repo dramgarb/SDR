@@ -1,4 +1,4 @@
-## Actividad 0
+## Actividad 0 y 1
 
 
 primero actualizamos el sistema
@@ -29,5 +29,22 @@ creamos un volumen
 
 <img width="387" height="36" alt="image" src="https://github.com/user-attachments/assets/86a9fdbb-a176-4040-b18f-adbab219afbb" />
 
-## Actividad 1
+## Actividad 2
 
+vamos a crear el contenedor interactivo
+
+<img width="656" height="176" alt="image" src="https://github.com/user-attachments/assets/e575f45a-e558-4ae3-a56a-5312ce5672b1" />
+
+este el contenedor en segundo plano
+
+<img width="677" height="264" alt="image" src="https://github.com/user-attachments/assets/fe12045a-9a82-4910-a510-6b9704988e74" />
+
+los listamos y hay los vemos
+
+<img width="1032" height="167" alt="image" src="https://github.com/user-attachments/assets/cab0dfaa-2ebd-4446-84a9-7ef4e80b892a" />
+
+y ahora lo paramos lo borramos y vemos que no esta
+
+<img width="803" height="153" alt="image" src="https://github.com/user-attachments/assets/cc8bb261-d2d1-4b97-9703-3f1f9d8a1958" />
+
+## Actividad 3
