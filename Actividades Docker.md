@@ -48,3 +48,47 @@ y ahora lo paramos lo borramos y vemos que no esta
 <img width="803" height="153" alt="image" src="https://github.com/user-attachments/assets/cc8bb261-d2d1-4b97-9703-3f1f9d8a1958" />
 
 ## Actividad 3
+
+primero descargamos la imagen de ubuntu
+
+<img width="588" height="113" alt="image" src="https://github.com/user-attachments/assets/124de823-553c-4027-a95a-07029dd3b4a2" />
+
+ahora la de hello world
+
+<img width="606" height="103" alt="image" src="https://github.com/user-attachments/assets/6a946c8e-b6ed-4dcb-9ac8-04c5cbd770ee" />
+
+descargamos la de nginx
+
+<img width="655" height="101" alt="image" src="https://github.com/user-attachments/assets/28dd1308-b09e-4af9-bdf9-104bdeb6426a" />
+
+y aqui las vemos
+
+<img width="716" height="117" alt="image" src="https://github.com/user-attachments/assets/deb2535e-fd6f-4eae-9cbe-102b3bab4631" />
+
+ahora vamos a ejecutar hello world con nombres
+
+<img width="913" height="284" alt="image" src="https://github.com/user-attachments/assets/46b38408-1bb5-4cd1-be21-aacb9ad8a7c3" />
+
+<img width="816" height="310" alt="image" src="https://github.com/user-attachments/assets/914e1f62-ab93-4bde-a52d-32ce00ff6d4c" />
+
+<img width="724" height="323" alt="image" src="https://github.com/user-attachments/assets/1112035e-ffe4-4012-b9d0-c19266bebb44" />
+
+y aqui las vemos
+
+<img width="963" height="134" alt="image" src="https://github.com/user-attachments/assets/a7446548-c9a7-4d1a-b37c-6a62020b781e" />
+
+para pararlos seria
+
+docker stop myhello1
+docker stop myhello2
+
+ahora borramos el 1
+
+<img width="941" height="140" alt="image" src="https://github.com/user-attachments/assets/b87aac48-4d9d-4dcd-815a-3ba6e330165e" />
+
+y para borrar todos el siguiente
+
+<img width="529" height="132" alt="image" src="https://github.com/user-attachments/assets/81f7b0dd-1260-4249-aa76-bbbed7cbf848" />
+
+## Actividad 4
+
