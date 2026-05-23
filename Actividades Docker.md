@@ -92,3 +92,45 @@ y para borrar todos el siguiente
 
 ## Actividad 4
 
+Vamos a crear una carpeta en tu servidor Ubuntu, meter un archivo HTML y hacer que un contenedor Nginx lo lea
+
+<img width="531" height="50" alt="image" src="https://github.com/user-attachments/assets/90ae1982-6465-4c7f-b051-98eed88e7c72" />
+
+creamos un index
+
+<img width="412" height="34" alt="image" src="https://github.com/user-attachments/assets/74287d25-3e11-438c-9f5f-52509c4f70bb" />
+
+y lanzamos el contenedor
+
+<img width="782" height="90" alt="image" src="https://github.com/user-attachments/assets/7f0b3b18-d6bc-4c0f-b34a-12a6b4dc2ed7" />
+
+ahora creamos un volumen y vemos que esta
+
+<img width="542" height="94" alt="image" src="https://github.com/user-attachments/assets/21fa912b-1299-4517-a737-94f8478f3d65" />
+
+Arrancamos un contenedor Ubuntu interactivo montando ese volumen en /datos
+
+<img width="716" height="35" alt="image" src="https://github.com/user-attachments/assets/377d0179-a12f-429e-b2eb-31c70869c1ee" />
+
+creamos un archivo dentro de datos
+
+<img width="321" height="20" alt="image" src="https://github.com/user-attachments/assets/06f0a9f8-e146-4658-8b10-3a89a125c9cb" />
+
+ahora borramos el contenedor
+
+<img width="453" height="44" alt="image" src="https://github.com/user-attachments/assets/933dc7c7-1e11-49fe-8423-6ec098b1c255" />
+
+creamos un contenedor nuevo usando el mismo volumen
+
+<img width="770" height="38" alt="image" src="https://github.com/user-attachments/assets/e2c30893-a4b4-418f-af65-9fc4321a3c73" />
+
+y vemos que el archivo sigue estando
+
+<img width="724" height="99" alt="image" src="https://github.com/user-attachments/assets/78a65635-4674-428e-97cb-413291b2f503" />
+
+y limpiamos el entorno
+
+<img width="521" height="83" alt="image" src="https://github.com/user-attachments/assets/bac65c9e-0c28-4864-abd8-fb72dee0e902" />
+
+## Actividad 5
+
