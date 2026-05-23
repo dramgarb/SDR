@@ -134,3 +134,22 @@ y limpiamos el entorno
 
 ## Actividad 5
 
+Ejemplo 1: Despliegue básico de un servicio
+Creamos un archivo `docker-compose.yml` para levantar un servidor web Nginx, mapeando el puerto 8082. 
+\`\`\`bash
+docker compose up -d
+docker compose ps
+\`\`\`
+
+Ejemplo 2: Aplicación Multicontenedor (WordPress + MariaDB)
+Definimos una infraestructura más compleja con dos servicios interconectados. Compose se encarga de crear automáticamente una red interna para que WordPress pueda comunicarse con la base de datos MariaDB utilizando variables de entorno.
+\`\`\`bash
+docker compose up -d
+\`\`\`
+
+Ejemplo 3: Gestión del ciclo de vida (Logs y Down)
+Comprobamos el funcionamiento de los servicios inspeccionando los registros combinados y, posteriormente, destruimos la infraestructura de forma limpia. El comando `down` elimina los contenedores y la red creada específicamente para ellos, dejando el sistema limpio.
+\`\`\`bash
+docker compose logs
+docker compose down
+\`\`\`
