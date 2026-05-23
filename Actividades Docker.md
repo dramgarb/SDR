@@ -153,3 +153,27 @@ Comprobamos el funcionamiento de los servicios inspeccionando los registros comb
 docker compose logs
 docker compose down
 \`\`\`
+
+## Actividad 6
+
+Ejemplo 1: Creación de imagen a partir de un contenedor (`docker commit`)
+Lanzamos un contenedor basado en Ubuntu, le instalamos paquetes adicionales y creamos un archivo en su interior. Posteriormente, detuvimos el contenedor y guardamos su estado actual como una nueva imagen utilizando `docker commit`.
+\`\`\`bash
+docker commit mi_ubuntu_base mi_imagen_manual:v1
+docker images | grep mi_imagen_manual
+\`\`\`
+
+Ejemplo 2: Creación automatizada mediante `Dockerfile`
+Aplicamos las buenas prácticas del sector creando un archivo `Dockerfile`. Partiendo de una imagen base ligera (`nginx:alpine`), copiamos un archivo `index.html` personalizado hacia la ruta pública del servidor y expusimos el puerto 80.
+\`\`\`bash
+docker build -t mi_web_nginx:v1 .
+\`\`\`
+
+
+Ejemplo 3: Versionado e inspección del historial de capas
+Para comprender cómo Docker optimiza el almacenamiento, utilizamos `docker history` para visualizar las distintas capas que componen nuestra imagen generada por el `Dockerfile`. Finalmente, usamos el comando `docker tag` para añadir una etiqueta de versión adicional (`latest`).
+\`\`\`bash
+docker history mi_web_nginx:v1
+docker tag mi_web_nginx:v1 mi_web_nginx:latest
+docker images | grep mi_web_nginx
+\`\`\`
